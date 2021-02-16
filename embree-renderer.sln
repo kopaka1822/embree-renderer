@@ -23,8 +23,6 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "renderer_server", "devices\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "device", "devices\device\device.vcxproj", "{ED848C9A-C161-4036-9DF7-EB169BCB81BC}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "device_ispc", "devices\device_ispc\device_ispc.vcxproj", "{EE858C9A-C161-4036-8DF7-EB169BCB81BC}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "device_network", "devices\device_network\network_device.vcxproj", "{F8965E6E-70F2-49D0-AC35-8A399C123548}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "device_singleray", "devices\device_singleray\device_singleray.vcxproj", "{ED848C9A-C161-4036-8DF7-EB169BCB81BC}"
